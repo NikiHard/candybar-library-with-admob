@@ -1,4 +1,5 @@
 # CandyBar <img src="https://drive.google.com/uc?id=0B0f4ypHfNKm5b0w5SklmMldvajg" width="30">
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/85227091ad964bccb8dfdbdd5ce065c8)](https://app.codacy.com/app/NikiHard/candybar-library-with-admob?utm_source=github.com&utm_medium=referral&utm_content=NikiHard/candybar-library-with-admob&utm_campaign=Badge_Grade_Dashboard)
 [![](https://jitpack.io/v/NikiHard/candybar-library-with-admob.svg)](https://jitpack.io/#NikiHard/candybar-library-with-admob) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 <br>Android Icon Pack Material Dashboard
 <p><a href='https://play.google.com/store/apps/details?id=com.material.dashboard.candybar.demo&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="200"/></a></p>
