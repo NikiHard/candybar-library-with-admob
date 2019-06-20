@@ -1,0 +1,2 @@
+include ':core', ':app'//, ':GDPR'
+include ':library:PreLollipopTransitions'

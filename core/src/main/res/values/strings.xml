@@ -1,0 +1,3 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="title_activity_minimal_gdpr" tools:ignore="MissingTranslation">MinimalGDPR</string>
+</resources>

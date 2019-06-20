@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="splash_screen_title">"UX S9 - حزمة الأيقونات 
+"</string>
+    <!-- Navigation View -->
+    <string name="navigation_view_home">الصفحه الرئيسيه</string>
+    <string name="navigation_view_apply">تطبيق</string>
+    <string name="navigation_view_icons">الأيقونات</string>
+    <string name="navigation_view_request">طلب أيقونه</string>
+    <string name="navigation_view_wallpapers">خلفيات</string>
+    <string name="navigation_view_settings">إعدادات</string>
+    <string name="navigation_view_faqs">أسئلة وأجوبة</string>
+    <string name="navigation_view_about">حول التطبيق</string>
+    <string name="navigation_view_donate">الدعم الفني</string>
+    <!-- Muzei -->
+    <string name="muzei_settings">إعدادات Muzei</string>
+    <string name="minute">دقيقه واحده</string>
+    <string name="hour">ساعه</string>
+    <string name="save_setting">حفظ</string>
+    <string name="muzei_refresh_duration">تحديث المده</string>
+    <string name="muzei_wifi_only">تحديث بواسطه الواي فاي فقط</string>
+    <string name="muzei_downloaded_only">تحميل الخلفيات المحمله فقط</string>
+    <string name="muzei_settings_ignored">لا تحتوي حزمه الايقونات علي خلفيات , والإعدادات تجاهلها</string>
+    <string name="muzei_settings_saved">الإعدادات تم حفظها</string>
+    <!-- Menu -->
+    <string name="menu_search">بحث</string>
+    <string name="menu_save">حفظ إلى الهاتف</string>
+    <string name="menu_select_all">تحديد الكل</string>
+    <string name="menu_wallpaper_crop">قص الخلفيه</string>
+    <string name="menu_apply_homescreen">الشاشة الرئيسية</string>
+    <string name="menu_apply_lockscreen">شاشه القفل</string>
+    <string name="menu_apply_homescreen_lockscreen">الشاشه الرئيسيه وشاشه القفل</string>
+    <!-- Dialog -->
+    <string name="open">فتح</string>
+    <string name="close">غلق</string>
+    <string name="clear">مسح</string>
+    <string name="ok">حسنا</string>
+    <string name="install">تنزيل</string>
+    <string name="donate">دعم</string>
+    <string name="search_noresult">لم يتم العثور على نتيجة لـ \"٪ s\"</string>
+    <string name="search_faqs">سؤال أو إجابه</string>
+    <string name="search_icon">إسم الأيقونه</string>
+    <!-- Changelog -->
+    <string name="changelog_version">إصدار</string>
+    <!-- InAppBilling -->
+    <string name="billing_load_product_failed">غير قادر على تحميل منتجات شراء داخل التطبيق</string>
+    <!-- License -->
+    <string name="license_checking">التحقق من الترخيص ...</string>
+    <string name="license_check">فحص الترخيص</string>
+    <string name="license_check_success">نجاح التحقق من الترخيص ، نشكرك على تنزيل التطبيق من متجر بلاي ستور.</string>
+    <string name="license_check_failed">فشل التحقق من الترخيص ، ولم تقم بتنزيل التطبيق من متجر بلاي ستور .
+لن تتمكن من استخدامها .</string>
+    <string name="license_check_retry">يتعذر التحقق من الترخيص ، يرجى المحاولة مرة أخرى بعد لحظات قليلة .</string>
+    <!-- Share -->
+    <string name="share_app_title">أنت! تحقق من٪ s</string>
+    <string name="share_app_body">تحقق من 1%$s , حزمه الأيقونات رائعه جدا! 2%s$</string>
+    <!-- Tap Intro -->
+    <string name="tap_intro_home_navigation">درج التنقل</string>
+    <string name="tap_intro_home_navigation_desc">انقر هنا أو اسحب من الحافة اليسرى من الشاشة لفتح درج التنقل</string>
+    <string name="tap_intro_home_apply">تطبيق حزمه الأيقونات</string>
+    <string name="tap_intro_home_apply_desc">أنقر هنا للتطبيق</string>
+    <string name="tap_intro_icons_search">بحث</string>
+    <string name="tap_intro_icons_search_desc">أنقر هنا للبحث عن أيقونه</string>
+    <string name="tap_intro_request_select">حدد التطبيق المفقود</string>
+    <string name="tap_intro_request_select_desc">أنقر هنا لتحديد التطبيق المفقود لطلب الرمز</string>
+    <string name="tap_intro_request_select_all">حدد جميع التطبيقات المفقوده</string>
+    <string name="tap_intro_request_select_all_desc">أنقر هنا لتحديد التطبيقات المفقوده لطلب الرمز</string>
+    <string name="tap_intro_request_send">أرسل طلب الرمز</string>
+    <string name="tap_intro_request_send_desc">أنقر هنا لإرسال التطبيقات المفقوده المعلمه</string>
+    <string name="tap_intro_request_premium">طلب رمز ممتاز</string>
+    <string name="tap_intro_request_premium_desc">أنقر هنا لشراء حزمه طلب الايقونات المميزه.
+مع طلب الايقونات المميز يمكنك الحصول علي الايقونات المطلوبه بسرعه.</string>
+    <string name="tap_intro_wallpapers_option">خيارات الخلفية</string>
+    <string name="tap_intro_wallpapers_option_desc">انقر مع الاستمرار هنا لإظهار خيارات ورق الجدران ، %s تطبيق الخلفيه .</string>
+    <string name="tap_intro_wallpapers_option_desc_download">تحميل أو</string>
+    <string name="tap_intro_wallpapers_preview">عرض الخلفيه</string>
+    <string name="tap_intro_wallpapers_preview_desc">أنقر هنا لعرض الحجم الكامل للخلفيه</string>
+    <string name="tap_intro_wallpaper_preview_save">حفظ الخلفيه</string>
+    <string name="tap_intro_wallpaper_preview_save_desc">أنقر هنا لتحميل وحفظ الخلفيه لهاتفك لتتمكن من إستخدامها لاحقا</string>
+    <string name="tap_intro_wallpaper_preview_apply">تطبيق الخلفيه</string>
+    <string name="tap_intro_wallpaper_preview_apply_desc">أنقر هنا لتعيين الخلفيه للشاشه الرئيسيه</string>
+    <!-- Home -->
+    <string name="home_more_apps_header">تطبيقات أكثر</string>
+    <string name="home_more_apps">تحقق من التطبيقات الأخرى المنشورة على متجر Google Play</string>
+    <string name="home_rate_and_review">تقييم ومراجعه</string>
+    <string name="home_apply_icon_pack">تطبيق%s</string>
+    <string name="home_donate">تبرع</string>
+    <string name="home_donate_desc">قم بدعم الممطور لحزمه الأيقونات</string>
+    <string name="home_icons">أيقونات مخصصة</string>
+    <string name="home_icon_dimension">%sحجم رمز البكسل</string>
+    <string name="home_loud_wallpapers">%dخلفيات السحابه</string>
+    <string name="home_muzei">Muzei خلفية حية</string>
+    <string name="home_icon_request_installed_apps">مجموع\n%d تطبيقات منزله</string>
+    <string name="home_icon_request_themed_apps">تحت عنوان\n%d تطبيقات</string>
+    <string name="home_icon_request_missed_apps">مفقوده\n%d تطبيقات</string>
+    <!-- Apply -->
+    <string name="apply_installed">المشغل المثبت</string>
+    <string name="apply_supported">المشغلات المدعمه</string>
+    <string name="apply_manual">لا تدعم٪ 1 $ s التطبيق المباشر ، يمكنك تطبيق٪ 2 $ s يدويًا من إعدادات المشغّل.</string>
+    <string name="apply_manual_evie">انقر مع الاستمرار على الشاشة الرئيسية - الإعدادات - حزمة الرموز - اختر٪ s.</string>
+    <string name="apply_launch_failed">غير قادر علي تشغيل إعدادات %s</string>
+    <string name="apply_launcher_not_installed">٪ s غير مثبت. هل تريد أن تفتح
+متجر Google Play لتنزيله وتثبيته؟</string>
+    <string name="apply_cmtheme_not_available">CM Theme Mananger غير متوفر علي هذا الجهاز</string>
+    <string name="apply_cmtheme_failed">غير قادر على تشغيل CM Theme Manager ، يمكنك محاولة تطبيق حزمه الايقونات يدويًا من الإعدادات.</string>
+    <string name="apply_lg_home">لتطبيق حزمه الايقونات هذه إفتح الإعدادات - عرض - الشاشه الرئيسيه - السمات</string>
+    <string name="apply_lg_home_not_available">LG Home غير متوفر علي هذا الجهاز</string>
+    <string name="apply_lg_home_failed">غير قادر على تشغيل LG Home Settings ، يمكنك محاولة تطبيق حزمه الايقونه  يدويًا من الإعدادات.</string>
+    <string name="apply_lg_home_nougat">لم يعد LG Home المزود بنظام Android Nougat يدعم أيقونة Pack. تحتاج إلى مشغل مخصص لاستخدام حزمة الرمز.</string>
+    <!-- Icons -->
+    <string name="icons_load_failed">غير قادر علي تحميل الايقونات</string>
+    <!-- Request -->
+    <string name="request_title">طلب ايقونه</string>
+    <string name="request_not_selected">تحديد تطبيقات للطلب</string>
+    <string name="request_not_requested">غير مطلوب</string>
+    <string name="request_already_requested">تم الطلب بالفعل</string>
+    <string name="request_building">بناء طلب ...</string>
+    <string name="request_build_failed">غير قادر على بناء طلب رمز</string>
+    <string name="request_appfilter_failed">غير قادر على قراءة appfilter.xml</string>
+    <string name="request_requested">يرجى التحقق من طلبك مرة أخرى.
+لأنك تحاول طلب التطبيق الذي تم طلبه مسبقًا.</string>
+    <string name="request_email_client">اختر البريد الإلكتروني الذي تريد استخدامه لإرسال طلب الرمز</string>
+    <string name="requits_send">تم إرسال الطلب</string>
+    <string name="request_limit">أنت فقط قادر على تقديم %d طلب (طلبات) مع الطلب المنتظم</string>
+    <string name="request_used">لقد طلبت %d أيقونه ( أيقونات)</string>
+    <string name="request_limit_buy">يمكنك شراء عمليه الطلب المميزه لطلب المزيد من الأيقونات</string>
+    <string name="request_limit_reset">سيتم إعادة تعيين حد طلب الرمز على كل تحديث.</string>
+    <!-- Premium Request -->
+    <string name="premium_request">طلب الايقونات المميز</string>
+    <string name="premium_request_no_internet">تـأكد من أن هاتفك متصل بالإنترنت قبل إرسال طلب النسخه المميزه</string>
+    <string name="premium_request_desc">طلب الرمز المميز هو الدفع للطلب. يمكنك الحصول على التطبيقات المطلوبة بشكل أسرع عن طريق استخدام طلب الرمز المميز.</string>
+    <string name="premium_request_buy">شراء</string>
+    <string name="premium_request_count">المجموع\n%d طلب</string>
+    <string name="premium_request_used">مستخدم\n%d طلب</string>
+    <string name="premium_request_available">متاح\n%d طلب</string>
+    <string name="premium_request_already_purchased">لا يزال لديك طلب %d المميز
+يجب عليك استخدام كل منهم قبل شراء حزمة الطلب المميز مرة أخرى.</string>
+    <string name="premium_request_limit">لديك فقط %d طلب (طلبات) مميز</string>
+    <string name="premium_request_limit1">لكنك حددت %d تطبيق (تطبيقات).
+\ n \ n يلزمك استخدام جميع طلبات المميزه الخاصة بك قبل استخدام الطلب العادي مرة أخرى.</string>
+    <string name="premium_request_consume_failed">غير قادر على استخدام الطلب المميز ، تأكد من أن لديك اتصالاً مستقرًا بالإنترنت وحاول مرة أخرى.
+انتقل إلى الإعدادات لإعادة إنشاء الطلبات المميز</string>
+    <string name="premium_request_rebuilding">إعاده بناء الطلب المميز</string>
+    <string name="premium_request_rebuilding_empty">لم تقم بعمل الطلب المميز</string>
+    <string name="premium_request_exist">لا يزال لديك حزمه طلب الايقونه المميز
+إفتح الإعدادات واختر \"استعادة المشتريات\" لاستعادتها.</string>
+    <string name="premium_request_required">أنت في حاجة لشراء حزمة طلب الايقونه المميزلتقديم طلبات ايقونه</string>
+    <!-- Wallpapers -->
+    <string name="wallpaper_new_added">خلفيات جديد</string>
+    <string name="wallpaper_already_downloaded">الخلفيه محمله بالفعل</string>
+    <string name="wallpaper_downloading">تحميل الخلفيه</string>
+    <string name="wallpaper_download_failed">غير قادر علي تحميل الخلفيه</string>
+    <string name="wallpaper_loading">تحميل الخلفيه</string>
+    <string name="wallpaper_applying">تطبيق خلفية ...</string>
+    <string name="wallpaper_applied">الخلفيه طٌبقت</string>
+    <string name="wallpaper_apply_failed">غير قادر علي تطبيق الخلفيه</string>
+    <string name="wallpaper_apply_cancelled">تم إلغاء تطبيق الخلفيه</string>
+    <string name="connection_failed">غير قادر على جلب البيانات من الخادم</string>
+    <string name="wallpaper_apply">تطبيق خلفية</string>
+    <string name="wallpaper_save_to_device">حفظ الخلفيه</string>
+    <!-- Preferences -->
+    <string name="pref_data_header">البيانات وذاكرة التخزين المؤقت</string>
+    <string name="pref_data_cache">مسح ذاكرة التخزين المؤقت</string>
+    <string name="pref_data_cache_desc">يمكنك إزالة ذاكرة التخزين المؤقت للصور من سعتك التخزينية ، التي تم إنشاؤها عند التقاط صورة
+من هذا التطبيق ، طلب التطبيقات الفائتة ، وبعد تحميل خلفية سحاب المصغرة.</string>
+    <string name="pref_data_cache_size">حجم ذاكره التخزين المؤقت : s%</string>
+    <string name="pref_data_cache_clear_dialog">هل تود فعلا مسح ذاكره التخزين المؤقت ؟</string>
+    <string name="pref_data_cache_cleared">ذاكرت التخزين المؤقت قد حذفت</string>
+    <string name="pref_data_request">مسح بيانات طلب الايقونه</string>
+    <string name="pref_data_request_desc">إمسح بيانات طلب الأيقونه ، التي تم إنشاؤها بعد الطلب
+تطبيقات لم يرد عليها من طلب الأيقونه</string>
+    <string name="pref_data_request_clear_dialog">هل تريد حقًا مسح بيانات طلب الايقونه ؟</string>
+    <string name="pref_data_request_cleared">بيانات طلب الأيقونه تم حذفها</string>
+    <string name="pref_premium_request_header">طلب الايقونه المميز</string>
+    <string name="pref_premium_request_restore">استعادة المشتريات</string>
+    <string name="pref_premium_request_restore_desc">استعادة حزمة طلب المميز بعد إعادة تثبيت حزمة رمز</string>
+    <string name="pref_premium_request_restore_success">الطلب المميز إستعاد</string>
+    <string name="pref_premium_request_restore_empty">ليس لديك أي حزم مشتراة</string>
+    <string name="pref_premium_request_rebuild">إعادة بناء طلب الايقونه المميز</string>
+    <string name="pref_premium_request_rebuild_desc">إجمع كل بيانات طلب الأيقونه المميز لإعادة إرسالها</string>
+    <string name="pref_theme_header">الموضوع</string>
+    <string name="pref_theme_dark">الوضع الليلي</string>
+    <string name="pref_theme_dark_desc">إستخدم ألوان داكنه لموضوع التطبيق</string>
+    <string name="pref_wallpaper_header">الخلفيه</string>
+    <string name="pref_wallpaper_location">مكان حفظ الخلفيه</string>
+    <string name="pref_language_header">اللغه</string>
+    <string name="pref_others_header">الأخرين</string>
+    <string name="pref_others_report_bugs">تقرير أخطاء</string>
+    <string name="pref_others_changelog">التغيير</string>
+    <string name="pref_others_reset_tutorial">إعادة تعيين البرنامج التعليمي</string>
+    <string name="pref_others_reset_tutorial_reset">إعادة تعيين البرنامج التعليمي</string>
+    <!-- Permission -->
+    <string name="permission_storage_denied">إذن التخزين اللازمة لحفظ خلفية الشاشة</string>
+    <!-- Intent -->
+    <string name="email_client">إختر البريد الإلكتروني المناسب</string>
+    <string name="no_email_app">لا يوجد تطبيق لإرسال الرساله</string>
+    <string name="no_browser">لا يوجد تطبيق لفتح اللينك</string>
+    <string name="intent_email_failed">غير قادر على عرض تطبيق البريد الإلكتروني</string>&gt;
+    
+    <string name="intent_email_supported">مدعم</string>
+    <string name="intent_email_recommended">موصى به</string>
+    <string name="intent_email_not_supported">غير مدعم</string>
+    <string name="intent_email_not_supported_message">حددت تطبيق البريد إلكتروني غير معتمد ، يرجى تحديد عميل بريد إلكتروني آخر</string>
+    <!-- About -->
+    <string name="about_contributors_title">المساهمون</string>
+    <!-- Report Bugs -->
+    <string name="report_bugs_desc">يرجى تقديم وصف حول نوع المشكلة التي تريد الإبلاغ عنها</string>
+    <string name="report_bugs_desc_hint">الوصف</string>
+    <string name="report_bugs_desc_empty">من فضلك ضع وصف</string>
+    <string name="report_bugs_building">بناء قائمه أنشطه ....</string>
+    <string name="report_bugs_failed">غير قادر على بناء قائمه أنشطه</string>
+    <string name="report_bugs_send">إرسال تقرير</string>
+    <!-- Support Development -->
+    <string name="donation_success">شكرا لك للتبرع . سأتخدمها للصالح</string>
+    <!-- Crash Report -->
+    <string name="crash_report">تقرير الأعطال</string>
+    <string name="crash_report_message">للأسف %s قد تعطل . اختر إرسال التقرير أدناه لمساعدة المطور في حل المشكلة.</string>
+    <string name="crash_report_send">إرسال تقرير</string>
+    <!-- Please don't modify this -->
+    <string name="about_dashboard">حزمه الايقونات - UX S9</string>
+    <string name="about_dashboard_dev">CandyBar هو حزمه بيانات مفتوحه المصدر لوحة المعلومات المرخصة تحت رخصة أباتشي 2.0
+ للأندرويد متوفر في GitHub ومجاني للاستخدام ،
+ تم تطويره بواسطة Dani Mahardhika.</string>
+    <string name="about_open_source_licenses">فتح ترخيص المصدر</string>
+    <string name="about_dashboard_contributors">مساهمين CandyBar</string>
+    <string name="about_dashboard_translator">مترجم CandyBar</string>
+    <string name="about_dashboard_dev_google_plus_url">https://plus.google.com/+DaniMahardhika</string>
+    <string name="about_dashboard_dev_github_url">https://github.com/danimahardhika</string>
+    <string name="about_dashboard_dev_instagram_url">https://www.instagram.com/_u/danimahardhika112/</string>
+    <string name="gdpr">GDPR</string>
+    <!-- DrawerToggle -->
+    <string name="txt_open">فتح</string>
+    <string name="txt_close">غلق</string>
+    <string name="navigation_view_instagram">إنستجرام</string>
+    <string name="navigation_view_vk">فكونتاكتي</string>
+</resources>

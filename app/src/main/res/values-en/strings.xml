@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">One UI Icon Pack</string>
+    <string name="home_description"><![CDATA[A set of icons in the style of One UI for most popular launchers.         ]]></string>
+    <string name="muzei_art_source_desc">UX S8/S9 wallpaper set</string>
+    <string name="theme_ad_msg">A set of icons in the style of UX S8 for most popular launchers</string>
+    <string name="theme_description">A set of icons in the style of One UI for most popular launchers</string>
+    <string name="theme_info">Set of icons in style UX S8</string>
+
+    </resources>

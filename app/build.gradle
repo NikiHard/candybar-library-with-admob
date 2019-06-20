@@ -1,0 +1,62 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    compileSdkVersion rootProject.ext.CompileSdk
+
+    android.applicationVariants.all { variant ->
+        variant.outputs.all { output ->
+            def appName = parent.name
+            def fileName = appName.replace(" ", "_")
+            outputFileName = "$fileName-v${variant.versionName}.apk"
+        }
+    }
+
+    defaultConfig {
+        applicationId "com.material.dashboard.candybar.sample"
+        minSdkVersion rootProject.ext.MinSdk
+        targetSdkVersion rootProject.ext.TargetSdk
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        manifestPlaceholders = [manifestApplicationId          : "ru.pt.iconpack.oneui",
+                                onesignal_app_id               : "7236a446-9394-4e20-b4e6-96f1fd0aacaf",
+                                onesignal_google_project_number: "232954827381"]
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    /*
+     * CandyBar Material Dashboard Library
+     *
+     * How to update?
+     * 1. See latest version at GitHub, https://github.com/danimahardhika/candybar-library/releases
+     * 2. Change candybar dependency matching latest version
+     * 3. com.github.danimahardhika.candybar-library:core:$versionNumber
+     * 4. Sync Project with Gradle Files
+     * 5. Clean project
+     * 6. Done
+     */
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'com.google.android.apps.muzei:muzei-api:3.1.0'
+    implementation 'com.github.MFlisar:GDPRDialog:1.4.1'
+
+    implementation project(':core')
+}

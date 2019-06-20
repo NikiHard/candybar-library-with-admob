@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="ExtraTranslation">
+    <string name="rating_dialog_experience" >Как бы ты оценил приложение?</string>
+    <string name="rating_dialog_maybe_later">Может потом</string>
+    <string name="rating_dialog_never">Никогда</string>
+    <string name="rating_dialog_feedback_title">Отзыв</string>
+    <string name="rating_dialog_submit">Отправить</string>
+    <string name="rating_dialog_cancel">Отменить</string>
+    <string name="rating_dialog_suggestions">Опишите мне, что пошло не так, и я  подумаю как это исправить!</string>
+</resources>
